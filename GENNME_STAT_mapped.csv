@@ -1,0 +1,393 @@
+GeneName,Drug Frequency,DrugBabnk ID
+Lisinopril,193228,DB00722
+Levothyroxine Sodium,176883,DB00451
+Acetaminophen/Hydrocodone Bitartrate,166203,DB00316|DB00956
+Metformin Hydrochloride,116073,DB00331
+Lovastatin,116068,DB00227
+Atenolol,108470,DB00335
+Simvastatin,104791,DB00641
+Hydrochlorothiazide,93986,DB00999
+Metoprolol Tartrate,67933,DB00264
+Furosemide,61943,DB00695
+Omeprazole,57503,DB00338
+Warfarin Sodium,55851,DB00682
+Ibuprofen,51236,DB01050
+Atorvastatin Calcium,51131,DB01076
+Amlodipine Besylate,50720,DB00381
+Amoxicillin,46812,DB01060
+Potassium Chloride,45918,DB14500
+Hydrochlorothiazide/Triamterene,43550,DB00999|DB00384
+Zolpidem Tartrate,42973,DB00425
+Benazepril Hydrochloride,42931,DB00542
+Valsartan,42660,DB00177
+Azithromycin,41088,DB00207
+Fluoxetine Hydrochloride,41080,DB00472
+Alprazolam,39927,DB00404
+Albuterol Sulfate,39215,DB01001
+Bupropion Hydrochloride,38353,DB01156
+Diltiazem Hydrochloride,38280,DB00343
+Escitalopram Oxalate,37368,DB01175
+Alendronate Sodium,37261,DB00630
+Pantoprazole Sodium,37244,DB00213
+Paroxetine Hydrochloride,37242,DB00715
+Fluticasone Propionate,36793,DB13867
+Ezetimibe/Simvastatin,36133,DB00973|DB00641
+Ethinyl Estradiol/Norgestimate;Ethinyl Estradiol/N,36027,DB00977|DB00957
+Ciprofloxacin Hydrochloride,33512,DB00537
+Sertraline Hydrochloride,32677,DB01104
+Clopidogrel Hydrogen Sulfate,32579,DB00758
+Cephalexin,31610,DB00567
+Prednisone,30147,DB00635
+Citalopram Hydrobromide,29646,DB00215
+Drospirenone/Ethinyl Estradiol;Placebo,28885,DB01395|DB00977
+Gabapentin,28847,DB00996
+Glipizide,28478,DB01067
+Naproxen,28110,DB00788
+Acetaminophen/Oxycodone Hydrochloride,27973,DB00316|DB00497
+Venlafaxine Hydrochloride,27013,DB00285
+Fluticasone Propionate/Salmeterol Xinafoate,26814,DB13867|DB00938
+Metoprolol Succinate,26049,DB00264
+Estradiol,25674,DB00783
+Glyburide,25488,DB01016
+Cyclobenzaprine Hydrochloride,25315,DB00924
+Ranitidine Hydrochloride,25270,DB00863
+Trazodone Hydrochloride,24360,DB00656
+Conjugated Estrogens,24347,DB00286
+Lorazepam,23861,DB00186
+Verapamil Hydrochloride,23040,DB00661
+Allopurinol,22752,DB00437
+Gemfibrozil,22747,DB01241
+Digoxin,22571,DB00390
+Sulfamethoxazole/Trimethoprim,22482,DB01015|DB00440
+Pioglitazone Hydrochloride,22222,DB01132
+Tramadol Hydrochloride,22021,DB00193
+Acyclovir,21822,DB00787
+Triamcinolone Acetonide,21714,DB00620
+Carvedilol,21417,DB01136
+"Insulin Glargine, Recombinant",21373,DB00047
+Ethinyl Estradiol/Levonorgestrel;Placebo,20844,DB00977|DB00367
+Amoxicillin/Clavulanate Potassium,20672,DB01060|DB00766
+Hydrochlorothiazide/Lisinopril,20453,DB00999|DB00722
+Doxycycline Hyclate,19769,DB00254
+Hydrochlorothiazide/Valsartan,19553,DB00999|DB00177
+Rabeprazole Sodium,19446,DB01129
+Nifedipine,18593,DB01115
+Amitriptyline Hydrochloride,18489,DB00321
+Carisoprodol,18196,DB00395
+Montelukast Sodium,18170,DB00471
+Risedronate Sodium,18104,DB00884
+Fenofibrate,17374,DB01039
+Acetaminophen/Codeine Phosphate,17346,DB00316|DB00318
+Mometasone Furoate,16970,DB00764
+Doxazosin Mesylate,16947,DB00590
+Albuterol,16702,DB01001
+Terazosin Hydrochloride,16028,DB01162
+Tamsulosin Hydrochloride,15852,DB00706
+Niacin,15682,DB00627
+Felodipine,15620,DB01023
+Finasteride,15574,DB01216
+Fluconazole,14958,DB00196
+Diclofenac Sodium,14875,DB00586
+Duloxetine Hydrochloride,14861,DB00476
+"Nitrofurantoin Monohydrate/Nitrofurantoin, Macro",14857,DB00698|DB00698
+Pravastatin Sodium,14836,DB00175
+Acetaminophen/Propoxyphene Napsylate,14794,DB00316|DB00647
+Clonidine Hydrochloride,14749,DB00575
+Amlodipine Besylate/Benazepril Hydrochloride,14398,DB00381|DB00542
+Olmesartan Medoxomil,14208,DB00275
+Donepezil Hydrochloride,14173,DB00843
+Temazepam,13973,DB00231
+Rosiglitazone Maleate,13415,DB00412
+Oxycodone Hydrochloride,13351,DB00497
+Clonazepam,13174,DB01068
+Ethinyl Estradiol/Norethindrone Ace;Ferrous Fum,13078,DB00977|DB00717
+Spironolactone,13048,DB00421
+Codeine Phosphate/Promethazine Hydrochloride,12970,DB00318|DB01069
+Propranolol Hydrochloride,12783,DB00571
+Diazepam,12541,DB00829
+Folic Acid,12409,DB00158
+Oxybutynin Chloride,12351,DB01062
+Sumatriptan Succinate,11992,DB00669
+Lansoprazole,11857,DB00448
+Levofloxacin,11676,DB01137
+Metronidazole,11664,DB00916
+Fexofenadine Hydrochloride,11548,DB00950
+Benazepril Hydrochloride/Hydrochlorothiazide,10643,DB00542|DB00999
+Mirtazapine,10212,DB00370
+Lamotrigine,10209,DB00555
+Esomeprazole Magnesium,10132,DB00736
+Morphine Sulfate,10015,DB00295
+Conjugated Estrogens/Medroxyprogesterone Acetate,9897,DB00286|DB00603
+Isosorbide Mononitrate,9880,DB09401
+Quetiapine Fumarate,9867,DB01224
+Methylprednisolone,9819,DB00959
+Codeine Phosphate/Guaifenesin,9650,DB00318|DB00874
+Nitroglycerin,9248,DB00727
+Amiodarone Hydrochloride,9242,DB01118
+Methotrexate Sodium,9227,DB00563
+Ethinyl Estradiol/Norgestrel;Placebo,9225,DB00977|DB09389
+Enalapril Maleate,8933,DB00584
+Ezetimibe,8852,DB00973
+Ethinyl Estradiol/Norethindrone;Placebo,8669,DB00977|DB00717
+Penicillin V Potassium,8642,DB01053
+"Insulin Lispro, Recombinant",8570,DB00046
+Promethazine Hydrochloride,8564,DB01069
+Clobetasol Propionate,8398,DB11750
+Rosuvastatin Calcium,8205,DB01098
+Tiotropium Bromide,8204,DB01409
+Medroxyprogesterone Acetate,8006,DB00603
+Amphetamine Salt Combination,7835,DB00182
+Valacyclovir Hydrochloride,7787,DB00577
+Celecoxib,7631,DB00482
+Metoclopramide Hydrochloride,7598,DB01233
+Memantine Hydrochloride,7556,DB01043
+Hydroxyzine Hydrochloride,7527,DB00557
+Raloxifene Hydrochloride,7445,DB00481
+Topiramate,7431,DB00273
+Ethinyl Estradiol/Etonogestrel,7403,DB00977|DB00294
+Latanoprost,7356,DB00654
+Clarithromycin,7260,DB01211
+Minocycline Hydrochloride,7226,DB01017
+Carbidopa/Levodopa,6905,DB00190|DB01235
+"Phenytoin Sodium, Extended",6890,DB00252
+Glimepiride,6873,DB00222
+Ramipril,6870,DB00178
+Clindamycin Hydrochloride,6864,DB01190
+Albuterol Sulfate/Ipratropium Bromide,6743,DB01001|DB00332
+Ketoconazole,6675,DB01026
+Tolterodine Tartrate,6613,DB01036
+Divalproex Sodium,6558,DB00313
+Sitagliptin Phosphate,6539,DB01261
+Fluocinonide,6325,DB01047
+Hydroxychloroquine Sulfate,6311,DB01611
+Eszopiclone,6288,DB00402
+Fentanyl,6200,DB00813
+Risperidone,5946,DB00734
+Timolol Maleate,5936,DB00373
+Hydrocortisone,5866,DB00741
+Nystatin,5774,DB00646
+Moxifloxacin Hydrochloride,5756,DB00218
+Phenazopyridine Hydrochloride,5736,DB01438
+Meloxicam,5655,DB00814
+Bimatoprost,5611,DB00905
+Ipratropium Bromide,5601,DB00332
+Losartan Potassium,5553,DB00678
+Famotidine,5488,DB00927
+Carbamazepine,5474,DB00564
+Hydrochlorothiazide/Olmesartan Medoxomil,5459,DB00999|DB00275
+Pregabalin,5448,DB00230
+Methocarbamol,5437,DB00423
+Clindamycin Phosphate,5434,DB01190
+Ethinyl Estradiol/Levonorgestrel;Ethinyl Estradiol,5419,DB00977|DB00367
+Erythromycin,5345,DB00199
+Buspirone Hydrochloride,5177,DB00490
+Dutasteride,5170,DB01126
+Prochlorperazine Maleate,5155,DB00433
+Travoprost,5084,DB00287
+Methylphenidate Hydrochloride,4962,DB00422
+Nabumetone,4937,DB00461
+Thyroid,4935,DB09100
+Ropinirole Hydrochloride,4837,DB00268
+Mesalamine,4787,DB00244
+"Insulin Aspart, Recombinant",4772,DB01306
+Norethindrone,4685,DB00717
+Desogestrel/Ethinyl Estradiol;Placebo,4677,DB00304|DB00977
+Fluvastatin Sodium,4650,DB01095
+Ethinyl Estradiol/Norgestimate;Placebo,4592,DB00977|DB00957
+Ethinyl Estradiol/Norethindrone;Ethinyl Estradiol/,4576,DB00977|DB00717
+Captopril,4531,DB01197
+Betamethasone Dipropionate/Clotrimazole,4412,DB00443|DB00257
+Levetiracetam,4399,DB01202
+Sildenafil Citrate,4383,DB00203
+Indomethacin,4361,DB00328
+Lovastatin/Niacin,4332,DB00227|DB00627
+Azelastine Hydrochloride,4290,DB00972
+Theophylline,4281,DB00277
+Acetaminophen/Butalbital/Caffeine,4264,DB00316|DB00241|DB00201
+Benzonatate,4198,DB00868
+Nortriptyline Hydrochloride,4186,DB00540
+Mupirocin,4149,DB00410
+Atropine Sulfate/Diphenoxylate Hydrochloride,4048,DB00572|DB01081
+Beclomethasone Dipropionate,3988,DB00394
+Insulin Human Isophane (NPH),3926,DB00030
+Hydralazine Hydrochloride,3891,DB01275
+"Nitrofurantoin, Macrocrystals",3876,DB00698
+Olopatadine Hydrochloride,3861,DB00768
+Desogestrel/Ethinyl Estradiol;Ethinyl Estradiol;Pl,3857,DB00304|DB00977
+Aspirin/Dipyridamole,3854,DB00945|DB00975
+Testosterone,3841,DB00624
+Fosinopril Sodium,3813,DB00492
+Ibandronate Sodium,3767,DB00710
+Esterified Estrogens,3735,DB09381
+Lactulose,3694,DB00581
+Brimonidine Tartrate,3690,DB00484
+Tamoxifen Citrate,3638,DB00675
+Colchicine,3615,DB01394
+Olanzapine,3613,DB00334
+Glyburide/Metformin Hydrochloride,3602,DB01016|DB00331
+Progesterone,3544,DB00396
+Rizatriptan Benzoate,3526,DB00953
+Lidocaine,3493,DB00281
+Cimetidine,3446,DB00501
+Cetirizine Hydrochloride,3431,DB00341
+Budesonide,3430,DB01222
+Anastrozole,3396,DB01217
+Hydrocortisone Acetate,3382,DB00741
+Esterified Estrogens/Methyltestosterone,3283,DB09381|DB06710
+Aripiprazole,3276,DB01238
+Tretinoin,3251,DB00755
+Tetracycline Hydrochloride,3233,DB00759
+Ethinyl Estradiol/Norethindrone Acetate,3198,DB00977|DB00717
+Isosorbide Dinitrate,3181,DB09401
+Baclofen,3169,DB00181
+Etodolac,3165,DB00749
+Cyclosporine,3163,DB00091
+Norethindrone;Placebo,3117,DB00717
+Guaifenesin/Pseudoephedrine Hydrochloride,3100,DB00874|DB00852
+Nystatin/Triamcinolone Acetonide,2997,DB00646|DB00620
+Labetalol Hydrochloride,2975,DB00598
+Levalbuterol Tartrate,2960,DB13139
+Lithium Carbonate,2926,DB14509
+Dicyclomine Hydrochloride,2921,DB00804
+Hydromorphone Hydrochloride,2916,DB00327
+Megestrol Acetate,2909,DB00351
+Prednisolone Acetate,2903,DB00860
+Gentamicin Sulfate,2859,DB00798
+Bumetanide,2847,DB00887
+Chlorhexidine Gluconate,2839,DB00878
+DM Hydrobrom/Promethazine HCl,2821,DB00514|DB01069
+Metformin Hydrochloride/Rosiglitazone Maleate,2746,DB00331|DB00412
+Polyethylene Glycol 3350,2715,DB09287
+Calcitonin (Salmon),2709,DB00017
+Dexamethasone/Tobramycin,2700,DB01234|DB00684
+Oseltamivir Phosphate,2699,DB00198
+Pramipexole Dihydrochloride,2697,DB00413
+Dorzolamide Hydrochloride/Timolol Maleate,2621,DB00869|DB00373
+Methadone Hydrochloride,2593,DB00333
+Methimazole,2589,DB00763
+Ondansetron Hydrochloride,2524,DB00904
+Exenatide,2514,DB01276
+Sulindac,2488,DB00605
+Solifenacin Succinate,2471,DB01591
+Meclizine Hydrochloride,2457,DB00737
+Sucralfate,2418,DB00364
+Quinapril Hydrochloride,2404,DB00881
+Imipramine Hydrochloride,2398,DB00458
+Ethinyl Estradiol/Norelgestromin,2368,DB00977|DB06713
+Insulin Human Regular,2361,DB00030
+Tadalafil,2355,DB00820
+Irbesartan,2297,DB01029
+Terbinafine Hydrochloride,2281,DB00857
+Doxepin Hydrochloride,2260,DB01142
+Azathioprine,2251,DB00993
+Ethinyl Estradiol/Ethynodiol Diacetate;Placebo,2248,DB00977|DB13866
+Sotalol Hydrochloride,2227,DB00489
+Tacrolimus,2223,DB00864
+Enoxaparin Sodium,2217,DB01225
+Ergocalciferol,2196,DB00153
+Zolmitriptan,2183,DB00315
+Hyoscyamine Sulfate,2119,DB00424
+Letrozole,2110,DB01006
+APAP/Dichloralphenazone/Isometheptene Mucate,2089,DB00316|DB01495|DB06706
+Fluorouracil,2082,DB00544
+Ketorolac Tromethamine,2079,DB00465
+Mycophenolate Mofetil,2071,DB01024
+Sulfasalazine,2065,DB00795
+Metolazone,2000,DB00524
+Dexamethasone,1988,DB01234
+Estropipate,1980,DB04574
+Permethrin,1964,DB04930
+Hydrochlorothiazide/Losartan Potassium,1955,DB00999|DB00678
+Betamethasone Dipropionate,1952,DB00443
+Atomoxetine Hydrochloride,1931,DB00289
+Metformin Hydrochloride/Pioglitazone Hydrochloride,1929,DB00331|DB01132
+Buprenorphine/Naloxone,1889,DB00921|DB01183
+Primidone,1884,DB00794
+Imiquimod,1873,DB00724
+Calcitriol,1871,DB00136
+Insulin Human Isophane (NPH)/Insulin Human Regular,1862,DB00030|DB00030
+Brinzolamide,1819,DB01194
+Atenolol/Chlorthalidone,1811,DB00335|DB00310
+Piroxicam,1805,DB00554
+Cholestyramine,1790,DB01432
+Dexamethasone/Neomycin Sulfate/Polymyxin B Sulfate,1755,DB01234|DB00994|DB00781
+Scopolamine,1754,DB00747
+Econazole Nitrate,1750,DB01127
+Leflunomide,1734,DB01097
+Fluocinolone Acetonide,1723,DB12553
+Aspirin/Butalbital/Caffeine,1716,DB00945|DB00241|DB00201
+Pentoxifylline,1709,DB00806
+Atropine Sulf/Hyoscyamine Sulf/Phenobarb/Scop Hydr,1698,DB00572|DB00424|DB01174|DB00747
+Flecainide Acetate,1680,DB01195
+Estradiol/Norethindrone Acetate,1678,DB00783|DB00717
+Cilostazol,1675,DB01166
+Eletriptan Hydrobromide,1672,DB00216
+Omega-3-Acid Ethyl Esters,1658,DB09539
+Ursodiol,1628,DB01586
+Alendronate Sodium/Cholecalciferol,1616,DB00630|DB00169
+Oxcarbazepine,1611,DB00776
+Triazolam,1605,DB00897
+Gatifloxacin,1577,DB01044
+Nadolol,1576,DB01203
+Epinephrine,1573,DB00668
+Silver Sulfadiazine,1519,DB12965
+Prazosin Hydrochloride,1517,DB00457
+Modafinil,1514,DB00745
+Tizanidine Hydrochloride,1500,DB00697
+Isoniazid,1493,DB00951
+Darifenacin Hydrobromide,1482,DB00496
+Lidocaine Hydrochloride,1480,DB00281
+Epoetin Alfa,1442,DB00016
+Pentosan Polysulfate Sodium,1437,DB00686
+Amlodipine Besylate/Valsartan,1429,DB00381|DB00177
+Benzoyl Peroxide/Clindamycin Phosphate,1425,DB09096|DB01190
+Insulin Detemir,1399,DB01307
+Polymyxin B Sulfate/Trimethoprim Sulfate,1388,DB00781|DB00440
+Ziprasidone Hydrochloride,1369,DB00246
+Sulfacetamide Sodium,1359,DB00634
+Vardenafil Hydrochloride,1347,DB00862
+Budesonide/Formoterol Fumarate,1331,DB01222|DB00983
+Nepafenac,1329,DB06802
+Quinine Sulfate,1318,DB00468
+Mupirocin Calcium,1294,DB00410
+Clotrimazole,1287,DB00257
+Aspirin/Butalbital/Caffeine/Codeine Phosphate,1286,DB00945|DB00241|DB00201|DB00318
+Flunisolide,1280,DB00180
+Benzoyl Peroxide/Erythromycin,1275,DB09096|DB00199
+"Betamethasone Dipropionate, Augmented",1274,DB00443
+Colesevelam Hydrochloride,1245,DB00930
+Acetaminophen/Tramadol Hydrochloride,1237,DB00316|DB00193
+Salmeterol Xinafoate,1224,DB00938
+Levobunolol Hydrochloride,1219,DB01210
+Isotretinoin,1214,DB00982
+Ondansetron,1205,DB00904
+Tobramycin,1198,DB00684
+Insulin Aspart Protamine/Insulin Aspart,1197,DB01306|DB01306
+Nisoldipine,1197,DB00401
+Alfuzosin Hydrochloride,1196,DB00346
+Etanercept,1176,DB00005
+Propylthiouracil,1170,DB00550
+Propafenone Hydrochloride,1160,DB01182
+Liothyronine Sodium,1156,DB00279
+Bisoprolol Fumarate/Hydrochlorothiazide,1153,DB00612|DB00999
+Galantamine Hydrobromide,1147,DB00674
+Naproxen Sodium,1137,DB00788
+Calcium Acetate,1126,DB01373
+Terconazole,1123,DB00251
+Bromfenac,1123,DB00963
+Cefdinir,1097,DB00535
+Fludrocortisone Acetate,1090,DB00687
+Desipramine Hydrochloride,1088,DB01151
+Dicloxacillin Sodium,1082,DB00485
+Hydroxyzine Pamoate,1073,DB00557
+Desloratadine,1072,DB00967
+Metformin Hydrochloride/Sitagliptin Phosphate,1068,DB00331|DB01261
+Homatropine Methylbromide/Hydrocodone Bitartrate,1062,DB11181|DB00956
+Hydroxyurea,1051,DB01005
+Zafirlukast,1031,DB00549
+Clonidine,1026,DB00575
+Haloperidol,1025,DB00502
+Cefuroxime Axetil,1021,DB01112
+Ofloxacin,1020,DB01165
+Telmisartan,1013,DB00966
+Erythromycin Stearate,1001,DB00199
