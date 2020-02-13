@@ -13,4 +13,6 @@ we use the complementarities between them to discover the new indications of exi
 
 ## 2.Pipline
 
-![pipline.jpg](https://github.com/HoytWen/CCM-Drug-Repositioning/blob/master/pipline.jpg)
+<center>
+![pipline.jpg](https://github.com/HoytWen/CCM-Drug-Repositioning/blob/master/pipline.jpg) 条件随机场模型示意图 </div>
+</center>
