@@ -25,3 +25,10 @@ Fig.1 Our drug repositioning framework to infer novel indications of existing dr
 The datasets used in the paper:
 
 + [NHANES](https://wwwn.cdc.gov/nchs/nhanes/Default.aspx): a dataset consists of interviews, physical examinations and laboratory tests.The interviews part includes demographic, socioeconomic, dietary, and health-related questions. We use the result of the health-related question (questionnaire data) and laboratory tests (laboratory data) from 1999 to 2016. 
+
++ EHR: a digital paper chart for patients, which contains their medical history. We use the medication history and laboratory test result in EHR dataset. It provides real-time, patient-centered records of patients. 
+
++ [SIDER](http://sideeffects.embl.de): a database that contains information on marketed medicines and their recorded inidications and adverse drug reactions. 
+
+## 4. Code
+### Running example 
