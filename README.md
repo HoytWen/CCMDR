@@ -13,5 +13,4 @@ we use the complementarities between them to discover the new indications of exi
 
 ## 2.Pipline
 
-
-<img src="https://github.com/HoytWen/CCM-Drug-Repositioning/blob/master/pipline.jpg" width="300px" height="240px" alt="简书">
+![]()
