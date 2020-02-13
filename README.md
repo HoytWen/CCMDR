@@ -11,11 +11,17 @@ framework to calculate the influence of different disease conditions and existin
 we use the complementarities between them to discover the new indications of existing drugs. 
 
 
-## 2.Pipline
+## 2. Pipline
 
 ![pipline.jpg](https://github.com/HoytWen/CCM-Drug-Repositioning/blob/master/pipline.jpg)
 
-Fig.1 Our drug repositioning framework to infer new uses of existing drug candidates, which includes three steps. 
+Fig.1 Our drug repositioning framework to infer novel indications of existing drug candidates, which includes three steps. 
 (1) Establishing clinical disease effect vector for each disease conditions by applying statistical analysis(Wilcoxon rank sum test) on NHANES dateset.
 (2) Establishing clinical drug effect vector for each existing drugs by applying CSCCS regression analysis on EHR dataset. 
 (3) Calculating therapeutic score for each drug-disease pair to infer indications based on the complmentarity between two vectors 
+
+## 3. Dataset
+
+The datasets used in the paper:
+
++ [NHANES](https://wwwn.cdc.gov/nchs/nhanes/Default.aspx): a dataset consists of interviews, physical examinations and laboratory tests.The interviews part includes demographic, socioeconomic, dietary, and health-related questions. We use the result of the health-related question (questionnaire data) and laboratory tests (laboratory data) from 1999 to 2016. 
