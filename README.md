@@ -13,6 +13,9 @@ we use the complementarities between them to discover the new indications of exi
 
 ## 2.Pipline
 
-<center>
-![pipline.jpg](https://github.com/HoytWen/CCM-Drug-Repositioning/blob/master/pipline.jpg) 条件随机场模型示意图 </div>
-</center>
+![pipline.jpg](https://github.com/HoytWen/CCM-Drug-Repositioning/blob/master/pipline.jpg)
+
+Fig.1 Our drug repositioning framework to infer new uses of existing drug candidates, which includes three steps. 
+(1) Establishing clinical disease effect vector for each disease conditions by applying statistical analysis(Wilcoxon rank sum test) on NHANES dateset.
+(2) Establishing clinical drug effect vector for each existing drugs by applying CSCCS regression analysis on EHR dataset. 
+(3) Calculating therapeutic score for each drug-disease pair to infer indications based on the complmentarity between two vectors 
