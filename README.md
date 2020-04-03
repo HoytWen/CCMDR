@@ -30,5 +30,3 @@ The datasets used in the paper:
 
 + [SIDER](http://sideeffects.embl.de): a database that contains information on marketed medicines and their recorded inidications and adverse drug reactions. 
 
-## 4. Code
-### Running example 
