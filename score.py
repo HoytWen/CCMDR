@@ -4,7 +4,7 @@ import os
 
 DiseaseEffect = pd.read_csv('DiseaseEffect.csv', low_memory=False)
 DiseaseEffect.set_index(['Disease Name'], inplace=True)
-DrugEffect = pd.read_csv('DrugEffect3.csv', low_memory=False)
+DrugEffect = pd.read_csv('DrugEffect.csv', low_memory=False)
 DrugEffect.set_index(['Generic Name'], inplace=True)
 
 LabName = list(DiseaseEffect)
