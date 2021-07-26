@@ -37,6 +37,6 @@ The datasets used in the paper:
 
 ## 5. Usage
 Generate the 
-'''shell
-python main.py
-'''
+  ```sh
+  python main.py
+  ```
