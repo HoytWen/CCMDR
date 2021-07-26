@@ -52,4 +52,8 @@ Generate the disease effects on a given laboratory test
   python score.py
   ```
 ## 6. Files 
-- 
+We compute effects of the diseases and drugs invloved in our experiments on selected laboratory tests, then further compute the therapy scores of drugs on the diseases. The computation results is organized in the following files.
+- DiseaseEffect.csv: the effects of 6 kinds of disease on 35 laboratory tests, where +1.0 means increaseing effect and -1.0 means decreasing effect. 
+- DrugEffect.csv: the effects of 392 kinds of drug on 35 laboratory tests, where positive value means increaseing effect and negative value means decreasing effect. 
+- Drug2Disease.csv: the therapy scores of drugs on diseases, where positive value means the drug has therapeutic effect on the disease and negative value means the drug can not treat the disease or even worsen the siutation. 
+- map.txt: mapping the laboratory test names into the NHANES code. 
