@@ -34,9 +34,21 @@ The datasets used in the paper:
 - Python >= 3.6.8
 - numpy >= 1.20.2
 - scipy >= 1.6.3
+- pandas >= 1.1.4
+- scikit-learn >= 0.23.1
+- regressor >= 0.0.3 
 
 ## 5. Usage
-Generate the 
+Generate the disease effects on a given laboratory test
   ```sh
-  python main.py
+  python DiseaseVector.py
   ```
+ Generate the drug effects on a given laboratory test
+  ```sh
+  python DrugVector.py
+  ```
+  Calculate the drug therapy scores on the diseases
+    ```sh
+  python score.py
+  ```
+ 
