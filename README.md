@@ -48,6 +48,7 @@ Generate the disease effects on a given laboratory test
   python DrugVector.py
   ```
   Calculate the drug therapy scores on the diseases
+  
     ```sh
     python score.py
     ```
