@@ -35,3 +35,8 @@ The datasets used in the paper:
 - numpy >= 1.20.2
 - scipy >= 1.6.3
 
+## 5. Usage
+Generate the 
+'''shell
+python main.py
+'''
