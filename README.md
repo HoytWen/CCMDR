@@ -30,3 +30,8 @@ The datasets used in the paper:
 
 + [SIDER](http://sideeffects.embl.de): a database that contains information on marketed medicines and their recorded inidications and adverse drug reactions. 
 
+## 4. Requirement 
+- Python >= 3.6.8
+- numpy >= 1.20.2
+- scipy >= 1.6.3
+
