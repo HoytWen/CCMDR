@@ -1,6 +1,6 @@
-# Clinical Connectivity Mapping For Drug Repositioning
+# CCMDR
+Source code of paper "Clinical connectivity map for drug repurposing: using laboratory results to bridge drugs and diseases"
 ## 1. Introduction 
-This repository contains source code for paper “”
 
 In this paper, we propose a drug repositioning framework to discover the new indications of existing drugs from electronic 
 clinical information, including National Health and Nutrition Examination Survey (NHANES) and Electronic Healthy Records (EHR). 
